@@ -36,7 +36,7 @@ class Tractors(Predictor):
                    u'Coupler', u'Coupler_System', u'Grouser_Tracks', u'Hydraulics_Flow',
                    u'Track_Type',  u'Stick_Length', u'Thumb',
                    u'Pattern_Changer', u'Grouser_Type', u'Backhoe_Mounting', u'Blade_Type', 'UsageBand',
-                   u'Travel_Controls', u'Differential_Type', u'Steering_Controls', u'fiSecondaryDesc', u'fiModelSeries']
+                   u'Travel_Controls', u'Differential_Type', u'Steering_Controls', u'fiModelSeries']
         data = self.dummify(data, dummies)
         for column in data.columns:
             if 'None' in column:
@@ -65,14 +65,14 @@ tractors.data = tractors.processing(tractors.data)
 tractors.data_to_predict = tractors.processing(tractors.data_to_predict)
 
 print 'splitting data'
-tractors.split(test_size=0.1, random_state=42)
+tractors.split(test_size=0.4, random_state=42)
 
 # get a baseline to compare our results with
 tractors.mean_baseline()
 
 # set features to train on
 drop_features = ['SalesID', 'fiBaseModel', 'SalePrice', 'MachineID', 'datasource',
-                 'saledate', 'fiModelDesc', 'fiModelDescriptor', 'fiProductClassDesc', 'ProductGroupDesc', 'Undercarriage_Pad_Width', 'Blade_Width', 'Blade_Extension', 'ModelID']
+                 'saledate', 'fiModelDesc', 'fiModelDescriptor', 'fiProductClassDesc', 'ProductGroupDesc', 'Undercarriage_Pad_Width', 'Blade_Width', 'Blade_Extension', 'ModelID',  u'fiSecondaryDesc']
 tractors.set_features(tractors.train.drop(drop_features, axis=1).columns)
 
 # perform features selection with lassoCV
@@ -85,7 +85,7 @@ model_name = 'RandomForestRegressor'
 param_grid = {'n_estimators': [50],
               'max_depth': [50, None],
               'min_samples_leaf': [2, 6, 10],
-              'bootstrap': [True, False]
+              'bootstrap': [True, False],
               'n_jobs': [-1]}
 tractors.grid_search(model_name, param_grid)
 print 'best train RMSE: {}'.format(tractors.train_score_)
