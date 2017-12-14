@@ -1,599 +1,421 @@
-fiModelSeries_-8E : -37336.7658099
-Tire_Size_10" : -30536.2864036
-fiSecondaryDesc_LCD : -26458.4381551
-fiSecondaryDesc_AB : -25704.860588
-fiModelSeries_-8 : -24874.8381436
-Travel_Controls_1 Speed : -18789.7154742
-fiSecondaryDesc_LCLR : -18018.2671434
-fiSecondaryDesc_LCH : -16105.4870838
-fiModelSeries_-3C : -15927.7751777
-Hydraulics_Base + 6 Function : -15595.315983
-fiSecondaryDesc_LS : -14348.1186651
-ProductSize_Mini : -14183.2103002
-fiSecondaryDesc_RC : -14057.9843681
-fiModelSeries_-1L : -13757.66105
-fiSecondaryDesc_HDSL : -12321.9484429
-fiSecondaryDesc_Q : -12135.8979569
-fiModelSeries_XT : -11821.3085285
-fiSecondaryDesc_SP : -10781.3114853
-fiModelSeries_LV : -10696.0806794
-ProductGroup_SSL : -10521.1571721
-fiSecondaryDesc_WD : -10477.5750781
-fiModelSeries_-21A : -10311.5051808
-ProductSize_Compact : -10203.6675148
-Hydraulics_Base + 5 Function : -10065.7403286
-fiModelSeries_-6A : -9051.43462377
-fiSecondaryDesc_TX : -8823.53429423
-fiSecondaryDesc_3 : -8746.49573927
-ProductGroup_BL : -8724.28827734
-fiSecondaryDesc_EW : -8673.16434852
-fiSecondaryDesc_Z : -8476.97202551
-fiModelSeries_-3LC : -8468.80691406
-fiModelSeries_-11 : -8303.3626738
-fiSecondaryDesc_MSR : -7900.26643228
-fiSecondaryDesc_LC : -7870.82896628
-YearMade_2000 : -7208.60776403
-fiModelSeries_M : -7016.46379347
-fiSecondaryDesc_BZ : -6740.045558
-fiSecondaryDesc_H90 : -6486.39145546
-fiSecondaryDesc_TM : -6399.37131429
-state_Puerto Rico : -6389.15223072
-Tire_Size_10 inch : -6212.61412817
-fiSecondaryDesc_A : -6014.40208261
-fiSecondaryDesc_C       : -5936.77690002
-fiSecondaryDesc_LX : -5508.09681615
-fiModelSeries_-7 : -5471.80810069
-fiSecondaryDesc_0.7 : -5431.4816322
-fiSecondaryDesc_T : -5305.94006179
-fiSecondaryDesc_MXT : -5174.47295333
-fiSecondaryDesc_7 : -5026.98202353
-Travel_Controls_2 Pedal : -4513.42848652
-fiModelSeries_-18 : -4351.80168199
-Hydraulics_Flow_High Flow : -4181.17331031
-fiModelSeries_-1C : -4175.27298385
-fiModelSeries_17 : -4050.40589702
-fiSecondaryDesc_V : -3949.39745987
-fiSecondaryDesc_CK : -3827.80194129
-fiModelSeries_-1 : -3787.04958165
-state_Hawaii : -3780.57118336
-Hydraulics_Flow_Standard : -3728.08783443
-fiSecondaryDesc_LE : -3704.26178617
-fiModelSeries_FASTRRACK : -3391.66382112
-auctioneerID_18.0 : -3390.01616779
-fiSecondaryDesc_TP : -3383.07055704
-fiSecondaryDesc_NLC : -3344.28298658
-Tire_Size_23.1" : -3315.63298086
-state_Kansas : -3298.73449597
-fiModelSeries_2 : -3275.51465635
-Tire_Size_13" : -3262.66088044
-fiModelSeries_5N : -3236.83374341
-fiModelSeries_ZTS : -3204.38610323
-Blade_Type_PAT : -3194.03376138
-Backhoe_Mounting_Yes : -3176.86409347
-fiModelSeries_-3EO : -3079.29458768
-fiModelSeries_-12 : -3021.80486378
-fiSecondaryDesc_W : -2959.08044521
-fiSecondaryDesc_MSR SPIN ACE : -2813.27570486
-fiModelSeries_-6LC : -2798.77862822
-fiModelSeries_6LE : -2747.00752418
-fiSecondaryDesc_SL : -2655.17782269
-Drive_System_Two Wheel Drive : -2648.69392628
-fiSecondaryDesc_NX : -2574.75807039
-state_Kentucky : -2437.55248896
-Hydraulics_4 Valve : -2377.31206557
-Steering_Controls_Four Wheel Standard : -2355.40121744
-Tire_Size_20.5 : -2307.35712614
-fiModelSeries_LT : -2235.19590559
-Tip_Control_Sideshift & Tip : -2224.34436499
-auctioneerID_3.0 : -2080.346007
-fiSecondaryDesc_MC : -2024.49012064
-Transmission_Autoshift : -2013.96303547
-state_Virginia : -2013.36749184
-auctioneerID_12.0 : -1947.17447069
-Enclosure_OROPS : -1939.55078789
-Tire_Size_17.5 : -1831.41853358
-fiSecondaryDesc_DT : -1820.28682055
-Steering_Controls_Wheel : -1810.12153631
-fiSecondaryDesc_WT : -1796.19880156
-state_Utah : -1708.48477051
-Stick_Standard : -1700.78973982
-fiModelSeries_-3MC : -1686.29125918
-state_New Mexico : -1565.29545791
-YearMade_1973 : -1561.9590469
-Hydraulics_Auxiliary : -1537.00639676
-YearMade_1967 : -1532.69306576
-fiModelSeries_-2C : -1514.0881091
-Travel_Controls_Lever : -1464.47948567
-fiModelSeries_-2 : -1462.50608149
-fiModelSeries_-21 : -1451.20225324
-UsageBand_Low : -1420.10915537
-Travel_Controls_Pedal : -1358.32867079
-Stick_Length_9' 10" : -1351.36477322
-fiSecondaryDesc_BZD : -1279.81695418
-sale_age : -1247.57797008
-Hydraulics_Base + 3 Function : -1223.60776965
-fiSecondaryDesc_SU : -1221.95519556
-state_Maryland : -1213.88682761
-state_Idaho : -1192.68467657
-auctioneerID_21.0 : -1138.88227172
-auctioneerID_9.0 : -1102.91048306
-YearMade_1996 : -1045.59607901
-state_Washington : -1029.98315582
-auctioneerID_24.0 : -1012.07537907
-fiSecondaryDesc_XP : -998.603746765
-YearMade_1995 : -992.559014576
-state_Massachusetts : -991.809326624
-auctioneerID_14.0 : -958.078278446
-Stick_Extended : -917.489112788
-state_Rhode Island : -904.908334575
-YearMade_1997 : -903.618581953
-state_North Carolina : -900.689194445
-auctioneerID_27.0 : -771.109441086
-Transmission_Direct Drive : -721.9864714
-YearMade_1971 : -684.731829181
-Thumb_Manual : -671.543007276
-auctioneerID_20.0 : -652.191921229
-fiSecondaryDesc_JX : -640.082466042
-state_Colorado : -638.627126179
-state_Missouri : -616.567892643
-YearMade_2003 : -592.374204675
-state_Wisconsin : -544.399121646
-auctioneerID_13.0 : -523.265155364
-YearMade_1966 : -518.158052477
-Drive_System_Four Wheel Drive : -452.102391184
-YearMade_2004 : -438.555929019
-state_Georgia : -435.535486087
-state_Nebraska : -422.361086963
-fiModelSeries_-17 : -421.172615988
-YearMade_1974 : -413.495041928
-fiSecondaryDesc_GT : -377.334948415
-auctioneerID_26.0 : -375.195802229
-fiSecondaryDesc_THF : -372.411984542
-YearMade_1975 : -355.510294811
-fiModelSeries_18 : -345.84728533
-YearMade_1999 : -331.794975965
-auctioneerID_10.0 : -309.043858544
-YearMade_1998 : -291.970035542
-state_Delaware : -283.644453372
-state_Oklahoma : -282.099338382
-auctioneerID_4.0 : -270.467005738
-state_Minnesota : -267.357593952
-fiModelSeries_-3L : -266.620874664
-YearMade_1972 : -253.170241862
-Transmission_Powershift : -249.93326353
-Hydraulics_Base + 4 Function : -248.873503298
-auctioneerID_99.0 : -231.494193505
-fiModelSeries_-2A : -184.345461871
-state_Arkansas : -170.462793316
-Differential_Type_Limited Slip : -132.110222627
-YearMade_1969 : -130.737227728
-state_Pennsylvania : -125.21999526
-state_Tennessee : -116.205585043
-Grouser_Tracks_Yes : -108.926668863
-Stick_Length_8' 4" : -108.67226645
-state_Wyoming : -102.356705372
-Coupler_System_Yes : -101.980652323
-YearMade_1990 : -90.088931436
-fiSecondaryDesc_SRLC : -86.0140183625
-fiSecondaryDesc_MRX : -53.3204000207
-YearMade_1991 : -32.9013000163
-state_Alabama : -27.6634067461
-Stick_Length_8' 2" : -21.5016350779
-Enclosure_EROPS AC : -14.2887633238
-MachineHoursCurrentMeter : -0.0144360349646
-Blade_Type_Angle : -0.0
-Blade_Type_Coal : 0.0
+Travel_Controls_1 Speed : -36972.9339136
+Tire_Size_10" : -20874.4288623
+fiModelSeries_-1L : -19527.6765072
+fiModelSeries_-1C : -17553.6797581
+fiModelSeries_-2C : -15064.5006106
+ProductSize_Mini : -14861.440275
+ProductSize_Compact : -14721.2692603
+ProductGroup_SSL : -14336.380341
+fiModelSeries_-21A : -13940.9977112
+fiModelSeries_2B : -13908.6557087
+Tire_Size_23.1" : -13720.8142969
+fiModelSeries_6LE : -13623.2793848
+Hydraulics_Base + 6 Function : -13093.6493333
+fiModelSeries_-7 : -11874.6888055
+fiModelSeries_-18 : -11217.950084
+ProductGroup_BL : -11127.8584733
+fiModelSeries_IV : -9991.76580504
+fiModelSeries_17 : -9912.81047454
+fiModelSeries_-3LC : -9905.62903417
+fiModelSeries_-8 : -9886.50460442
+Travel_Controls_2 Pedal : -9436.95726799
+fiModelSeries_IV-2 : -8966.3979647
+fiModelSeries_-1 : -8640.59895792
+fiModelSeries_-6A : -8197.36206131
+YearMade_2000 : -8064.8379418
+fiModelSeries_-3C : -7974.46732286
+fiModelSeries_FASTRRACK : -7862.2954207
+fiModelSeries_-2N : -7416.6349687
+fiModelSeries_-12 : -7235.40139432
+fiModelSeries_#NAME? : -7124.93960161
+fiModelSeries_5N : -7086.29870102
+fiModelSeries_1 : -6959.40586456
+fiModelSeries_-3MC : -6723.64355532
+fiModelSeries_20 : -6573.25339839
+fiModelSeries_-1B : -6446.82991836
+fiModelSeries_LV : -6385.86689756
+Hydraulics_Base + 5 Function : -5665.55830694
+fiModelSeries_2T : -5663.507587
+fiModelSeries_18 : -5644.11799602
+YearMade_1973 : -5598.92124275
+fiModelSeries_WX : -5596.89195475
+state_Puerto Rico : -5585.52385997
+Hydraulics_Flow_High Flow : -4982.86301681
+fiModelSeries_-20 : -4979.55749415
+Hydraulics_Base + 3 Function : -4959.83851755
+fiModelSeries_-21 : -4794.12178363
+YearMade_1967 : -4763.27296747
+fiModelSeries_-6 : -4653.0685106
+fiModelSeries_-17 : -4632.56366199
+Backhoe_Mounting_Yes : -4339.15720209
+fiModelSeries_3 : -4281.35273028
+auctioneerID_18.0 : -4256.58796871
+fiModelSeries_-3EO : -4245.16201705
+Stick_Length_13' 9" : -4222.77712896
+state_Hawaii : -4222.73974444
+Hydraulics_Flow_Standard : -4123.78279626
+state_Kansas : -4069.46039836
+Travel_Controls_Pedal : -4017.79650616
+fiModelSeries_2 : -3958.33970658
+fiModelSeries_-8E : -3912.37629531
+fiModelSeries_-11 : -3862.31100131
+fiModelSeries_-2 : -3861.04340952
+YearMade_1971 : -3844.51340654
+Steering_Controls_Four Wheel Standard : -3612.70421685
+fiModelSeries_-3L : -3501.12180176
+YearMade_1975 : -3455.95205444
+YearMade_1972 : -3322.43827456
+Tire_Size_13" : -3244.9042621
+fiModelSeries_V : -3217.33928655
+fiModelSeries_-5E : -3188.3501865
+Blade_Type_PAT : -3091.06622391
+Track_Type_Rubber : -3083.16747418
+YearMade_1974 : -3057.560889
+Hydraulics_Base + 4 Function : -3023.99944824
+fiModelSeries_-3 : -2837.41498426
+YearMade_1978 : -2819.17140941
+state_Kentucky : -2817.97614143
+YearMade_1966 : -2799.85518958
+Stick_Length_9' 5" : -2708.55713227
+YearMade_1969 : -2701.482969
+Stick_Standard : -2577.28351058
+fiModelSeries_-3H : -2546.86374876
+fiModelSeries_6 : -2491.57206056
+YearMade_1970 : -2439.89392365
+YearMade_1968 : -2321.84345754
+YearMade_1977 : -2257.69630864
+auctioneerID_3.0 : -2249.36529031
+Enclosure_OROPS : -2234.08432647
+YearMade_1980 : -2232.93269518
+Transmission_Direct Drive : -2204.69759771
+Hydraulics_Auxiliary : -2165.56188366
+auctioneerID_12.0 : -2136.79445763
+fiModelSeries_-1.50E+01 : -2104.24730866
+YearMade_1979 : -2100.22241843
+YearMade_1964 : -2096.03517881
+YearMade_1976 : -2088.43772104
+Drive_System_Two Wheel Drive : -2065.64112715
+Stick_Length_9' 10" : -1995.1530914
+fiModelSeries_XT : -1924.65641567
+fiModelSeries_12 : -1844.52523798
+state_Utah : -1661.75392905
+Stick_Extended : -1658.75882528
+state_New Mexico : -1634.17316714
+YearMade_1985 : -1630.54517622
+state_Virginia : -1624.37000683
+Grouser_Tracks_Yes : -1571.23069076
+state_Maryland : -1570.42736208
+auctioneerID_9.0 : -1528.49148428
+Stick_Length_8' 4" : -1503.3782989
+Tire_Size_20.5 : -1337.1773593
+sale_age : -1265.94493758
+Tire_Size_17.5 : -1161.93748963
+state_North Carolina : -1158.06056193
+auctioneerID_14.0 : -1067.24784763
+auctioneerID_13.0 : -1048.16856422
+Coupler_System_Yes : -1027.25598377
+Stick_Length_8' 2" : -958.273949636
+YearMade_1984 : -953.36437401
+fiModelSeries_Elite : -885.674760438
+auctioneerID_0.0 : -862.080155845
+state_Colorado : -844.207897459
+auctioneerID_21.0 : -830.424890399
+YearMade_1965 : -830.32374726
+Thumb_Manual : -824.015318662
+auctioneerID_4.0 : -792.083690854
+state_Wisconsin : -790.532123817
+auctioneerID_20.0 : -724.551020172
+state_Nebraska : -724.227520635
+fiModelSeries_16 : -677.621842606
+auctioneerID_15.0 : -654.24505699
+state_Washington : -632.766182686
+fiModelSeries_-6E : -625.959362971
+Tip_Control_Sideshift & Tip : -618.256434485
+fiModelSeries_21KomStatII : -612.410118961
+YearMade_1981 : -599.579367454
+state_Georgia : -599.210932693
+YearMade_1991 : -574.091230477
+auctioneerID_99.0 : -507.725469611
+state_Alaska : -465.516008806
+YearMade_1995 : -447.923987646
+state_Pennsylvania : -416.305584045
+YearMade_1983 : -384.672607189
+auctioneerID_24.0 : -378.504001869
+state_Montana : -335.091184237
+state_Alabama : -315.221574493
+auctioneerID_10.0 : -314.725134853
+fiModelSeries_-5 : -297.735903125
+fiModelSeries_L : -290.153062963
+auctioneerID_5.0 : -284.079699815
+Transmission_Autoshift : -260.461995247
+state_Oregon : -218.216940865
+state_Missouri : -209.965423211
+YearMade_1986 : -196.99875549
+auctioneerID_26.0 : -174.545450487
+fiModelSeries_4 : -166.287073034
+YearMade_1996 : -161.848012059
+YearMade_1993 : -81.2839346248
+Hydraulics_Base + 2 Function : -72.0145605718
+YearMade_1992 : -71.1582216337
+auctioneerID_16.0 : -56.3205216722
+state_California : -45.6254901378
+Turbocharged_Yes : -44.5602031216
+auctioneerID_27.0 : -10.1629754901
+state_Arizona : -7.66792359602
+state_New York : -1.19641516197
+MachineHoursCurrentMeter : -0.00648590362432
+Differential_Type_Standard : 0.0
+Drive_System_Four Wheel Drive : -0.0
 Enclosure_EROPS : -0.0
 Enclosure_NO ROPS : 0.0
 Engine_Horsepower_No : 0.0
 Grouser_Type_Double : 0.0
 Grouser_Type_Single : 0.0
-Hydraulics_2 Valve : 0.0
 Hydraulics_Base + 1 Function : 0.0
 Hydraulics_Standard : 0.0
 Pad_Type_Grouser : -0.0
-ProductGroup_TEX : 0.0
-ProductGroup_TTT : -0.0
+ProductGroup_TEX : -0.0
+ProductGroup_WL : 0.0
+ProductSize_Small : -0.0
 Steering_Controls_No : 0.0
-Stick_Length_15' 4" : 0.0
+Steering_Controls_Wheel : 0.0
+Stick_Length_13' 10" : 0.0
+Stick_Length_15' 4" : -0.0
 Stick_Length_24' 3" : 0.0
+Stick_Length_6' 3" : 0.0
 Stick_Length_7' 10" : 0.0
+Stick_Length_8' 6" : -0.0
 Stick_Length_9' 2" : 0.0
-Stick_Length_9' 5" : -0.0
+Stick_Length_9' 6" : 0.0
+Tire_Size_10 inch : -0.0
+Tire_Size_15.5" : 0.0
 Tire_Size_7.0" : 0.0
-Track_Type_Rubber : -0.0
+Transmission_AutoShift : -0.0
 Transmission_Hydrostatic : -0.0
-Transmission_Powershuttle : -0.0
-UsageBand_Medium : 0.0
+Travel_Controls_Lever : 0.0
+YearMade_1937 : 0.0
 YearMade_1942 : 0.0
 YearMade_1947 : 0.0
+YearMade_1953 : 0.0
 YearMade_1955 : 0.0
-YearMade_1965 : 0.0
-YearMade_1968 : 0.0
-YearMade_1970 : 0.0
-YearMade_1992 : -0.0
-YearMade_1993 : -0.0
-YearMade_1994 : 0.0
-YearMade_2002 : 0.0
+YearMade_1957 : 0.0
+YearMade_1962 : -0.0
 YearMade_2012 : 0.0
 YearMade_2013 : 0.0
-auctioneerID_15.0 : 0.0
-auctioneerID_2.0 : -0.0
+auctioneerID_2.0 : 0.0
+auctioneerID_23.0 : -0.0
+auctioneerID_28.0 : -0.0
 fiModelSeries_ III : 0.0
-fiModelSeries_-1B : -0.0
+fiModelSeries_-16 : -0.0
+fiModelSeries_-2A : 0.0
 fiModelSeries_-2LC : 0.0
-fiModelSeries_-2N : -0.0
-fiModelSeries_-3H : -0.0
 fiModelSeries_-3M : 0.0
 fiModelSeries_-4 : 0.0
-fiModelSeries_-5E : -0.0
+fiModelSeries_-5A : 0.0
 fiModelSeries_-5F : 0.0
+fiModelSeries_-5H : -0.0
 fiModelSeries_-6K : 0.0
+fiModelSeries_-6LC : 0.0
 fiModelSeries_-6LK : 0.0
+fiModelSeries_-7K : 0.0
 fiModelSeries_14FT : 0.0
 fiModelSeries_1970 : 0.0
-fiModelSeries_20 : -0.0
 fiModelSeries_21KomStat : 0.0
-fiModelSeries_21KomStatII : -0.0
-fiModelSeries_2B : -0.0
-fiModelSeries_2T : -0.0
-fiModelSeries_3 : 0.0
-fiModelSeries_3A : -0.0
-fiModelSeries_4 : 0.0
+fiModelSeries_3A : 0.0
 fiModelSeries_6F : 0.0
 fiModelSeries_6L : 0.0
+fiModelSeries_6LK : 0.0
 fiModelSeries_7L : 0.0
 fiModelSeries_AWS : 0.0
 fiModelSeries_D7 : 0.0
 fiModelSeries_EX : 0.0
-fiModelSeries_Elite : -0.0
-fiModelSeries_IV : -0.0
-fiModelSeries_L : 0.0
+fiModelSeries_GALEO : -0.0
 fiModelSeries_LGP : 0.0
 fiModelSeries_LL : 0.0
+fiModelSeries_M : 0.0
 fiModelSeries_Q : 0.0
 fiModelSeries_SeriesII : 0.0
+fiModelSeries_TC : 0.0
 fiModelSeries_VI : 0.0
 fiModelSeries_WT : 0.0
 fiModelSeries_XLT : 0.0
 fiModelSeries_ZHS : 0.0
+fiModelSeries_ZTS : -0.0
 fiModelSeries_ZX : 0.0
-fiSecondaryDesc_ MSR SPIN ACE : 0.0
-fiSecondaryDesc_-3 : -0.0
-fiSecondaryDesc_-5 : 0.0
-fiSecondaryDesc_-5L : 0.0
-fiSecondaryDesc_-7 : 0.0
-fiSecondaryDesc_2 : 0.0
-fiSecondaryDesc_AA : 0.0
-fiSecondaryDesc_B      : -0.0
-fiSecondaryDesc_BEC : 0.0
-fiSecondaryDesc_BLGP : 0.0
-fiSecondaryDesc_BLGPPS : 0.0
-fiSecondaryDesc_CE : 0.0
-fiSecondaryDesc_CKB : 0.0
-fiSecondaryDesc_CL : 0.0
-fiSecondaryDesc_CLR : -0.0
-fiSecondaryDesc_CM : 0.0
-fiSecondaryDesc_DC : 0.0
-fiSecondaryDesc_DXT : 0.0
-fiSecondaryDesc_DZ : -0.0
-fiSecondaryDesc_EG : 0.0
-fiSecondaryDesc_H       : 0.0
-fiSecondaryDesc_HAG : -0.0
-fiSecondaryDesc_HDS : 0.0
-fiSecondaryDesc_HF : -0.0
-fiSecondaryDesc_HLGP : 0.0
-fiSecondaryDesc_HLS : 0.0
-fiSecondaryDesc_HX : 0.0
-fiSecondaryDesc_LC7A : 0.0
-fiSecondaryDesc_LD : 0.0
-fiSecondaryDesc_M       : 0.0
-fiSecondaryDesc_MR : 0.0
-fiSecondaryDesc_NE : -0.0
-fiSecondaryDesc_PG : 0.0
-fiSecondaryDesc_PL : 0.0
-fiSecondaryDesc_R-2 : 0.0
-fiSecondaryDesc_SB : 0.0
-fiSecondaryDesc_SF : 0.0
-fiSecondaryDesc_SPIN ACE : 0.0
-fiSecondaryDesc_TC : 0.0
-fiSecondaryDesc_TTL : 0.0
-fiSecondaryDesc_UNA : -0.0
-fiSecondaryDesc_USBL : 0.0
-fiSecondaryDesc_X : 0.0
-fiSecondaryDesc_XL : -0.0
-fiSecondaryDesc_ZF : 0.0
-fiSecondaryDesc_ZHS : 0.0
-fiSecondaryDesc_ZHS G : 0.0
-fiSecondaryDesc_ZT : -0.0
-fiSecondaryDesc_ZTM : -0.0
-fiSecondaryDesc_ZX : -0.0
-state_Arizona : 0.0
-state_California : -0.0
-state_Indiana : -0.0
+state_Arkansas : 0.0
+state_Delaware : 0.0
+state_Indiana : 0.0
+state_Iowa : 0.0
 state_Nevada : -0.0
+state_Oklahoma : -0.0
+state_Tennessee : 0.0
 state_Vermont : 0.0
 state_Washington DC : 0.0
-Differential_Type_No Spin : 6.75931498356
-fiSecondaryDesc_LCM : 8.78893110205
-state_Illinois : 11.9545662163
-state_Iowa : 26.6117503589
-state_New York : 44.21277949
-auctioneerID_16.0 : 51.8093327788
-state_Michigan : 60.8847854892
-state_Alaska : 69.1055366653
-Travel_Controls_Finger Tip : 98.8197513452
-Coupler_Manual : 102.526248157
-YearMade_1959 : 119.584943785
-auctioneerID_5.0 : 121.926147502
-Turbocharged_Yes : 149.584890471
-YearMade_2001 : 161.254151799
-YearMade_1977 : 187.169366703
-fiSecondaryDesc_SUPER R : 189.998974203
-fiModelSeries_GALEO : 211.009118632
-Differential_Type_Standard : 212.906637027
-Stick_Length_12' 4" : 228.729120951
-auctioneerID_1.0 : 230.598436034
-state_Mississippi : 234.990328924
-Hydraulics_3 Valve : 254.228720713
-fiModelSeries_-6E : 279.943625022
-fiModelSeries_-6 : 287.53696889
-fiModelSeries_WX : 296.07345876
-fiSecondaryDesc_SX : 318.083747254
-fiModelSeries_-20 : 339.34505358
-state_Montana : 354.947541641
-auctioneerID_0.0 : 356.000067794
-state_Texas : 381.089686238
-fiSecondaryDesc_1 : 385.0050216
-Stick_Length_9' 6" : 390.77830688
-state_West Virginia : 398.542225786
-fiModelSeries_1 : 407.061755879
-YearMade_1964 : 414.022700994
-ProductSize_Small : 451.417030491
-auctioneerID_25.0 : 466.934676541
-auctioneerID_23.0 : 489.83545872
-YearMade_1976 : 491.751981431
-state_Maine : 507.958598255
-state_Oregon : 520.606271699
-auctioneerID_7.0 : 543.461533954
-Forks_Yes : 565.035407442
-Tire_Size_14" : 574.61023536
-fiSecondaryDesc_EST : 591.10534221
-Stick_Length_8' 6" : 594.857602898
-state_New Hampshire : 613.634319249
-fiSecondaryDesc_P : 648.936881399
-YearMade_1980 : 654.635608482
-YearMade_1978 : 687.362455328
-YearMade_1989 : 709.479327231
-YearMade_1987 : 724.133826851
-state_Ohio : 748.554673757
-Transmission_Standard : 774.29016628
-auctioneerID_28.0 : 847.568195515
-Drive_System_No : 929.16986199
-Coupler_Hydraulic : 956.13776951
-Hydraulics_Base + 2 Function : 983.416068314
-YearMade_1988 : 1023.38178078
-YearMade_1979 : 1064.74920989
-fiModelSeries_TC : 1123.68413762
-fiModelSeries_-3 : 1134.43714427
-Pattern_Changer_No : 1137.80743662
-Grouser_Type_Triple : 1144.30704993
-Thumb_Hydraulic : 1149.03637425
-fiSecondaryDesc_SR : 1152.24397272
-state_Connecticut : 1174.7295238
-Blade_Type_VPAT : 1209.06171275
-YearMade_1985 : 1210.71858923
-YearMade_1986 : 1266.14890093
-auctioneerID_22.0 : 1272.8104871
-Blade_Type_Straight : 1280.60604291
-auctioneerID_17.0 : 1303.18982146
-YearMade_2005 : 1323.86065066
-state_South Carolina : 1340.11230351
-state_Louisiana : 1363.93694001
-fiSecondaryDesc_HL : 1397.26540175
-fiModelSeries_#NAME? : 1400.50363788
-auctioneerID_8.0 : 1436.84200148
-auctioneerID_11.0 : 1444.8844685
-ProductGroup_WL : 1524.12849769
-Blade_Type_No : 1551.88298032
-fiSecondaryDesc_PS : 1553.60985432
-fiModelSeries_-5A : 1656.04478964
-Stick_Length_9' 8" : 1685.79894595
-fiModelSeries_III : 1793.92873858
-Pad_Type_Street : 1897.56215925
-fiSecondaryDesc_B : 1904.38878461
-state_Florida : 1945.23409231
-Travel_Controls_Differential Steer : 1967.12233055
-Transmission_AutoShift : 1972.89907805
-YearMade_1984 : 1986.26932181
-Stick_Length_11' 10" : 2019.1920624
-Stick_Length_6' 3" : 2063.85612126
-fiSecondaryDesc_LGP : 2107.53321268
-state_New Jersey : 2109.98915044
-fiModelSeries_LC : 2130.36340441
-Tire_Size_15.5 : 2135.8955
-auctioneerID_19.0 : 2163.20284552
-fiSecondaryDesc_SUPER M PLUS : 2188.16573037
-state_North Dakota : 2198.03454434
-fiSecondaryDesc_AG : 2255.55142731
-Tire_Size_23.5 : 2258.57450079
-fiModelSeries_G : 2369.43445546
-Blade_Type_U : 2399.58208885
-fiSecondaryDesc_S : 2401.68074374
-Stick_Length_11' 0" : 2406.13520518
-fiModelSeries_-5 : 2425.51053539
-Tire_Size_15.5" : 2467.12086241
-fiSecondaryDesc_XT : 2512.42358328
-fiSecondaryDesc_ZTS : 2618.94092749
-state_Unspecified : 2665.77920479
-Pad_Type_Reversible : 2687.45556427
-UsageBand_High : 2690.84318543
-YearMade_1981 : 2724.1486858
-auctioneerID_6.0 : 2829.54775435
-fiSecondaryDesc_DX : 2935.69356773
-fiModelSeries_II : 2991.10157377
-fiSecondaryDesc_U : 3001.19721701
-fiSecondaryDesc_FR : 3061.35560217
-fiSecondaryDesc_E : 3091.35985654
-fiSecondaryDesc_-2 : 3112.80145372
-fiSecondaryDesc_SJ : 3140.62984828
-YearMade_1983 : 3170.78174428
-fiModelSeries_16 : 3185.93862761
-YearMade_1982 : 3262.13440654
-fiModelSeries_IV-2 : 3306.92645595
-Stick_Length_13' 7" : 3524.15477632
-Drive_System_All Wheel Drive : 3542.15878182
-Blade_Type_Landfill : 3616.78412655
-Stick_Length_10' 2" : 3630.12963707
-Track_Type_Steel : 3646.69707988
-fiSecondaryDesc_PTC : 3783.67533042
-fiSecondaryDesc_UR : 3845.57672776
-Ripper_Single Shank : 3875.57089294
-fiModelSeries_-7E : 3890.01122385
-fiSecondaryDesc_MT : 3891.32460663
-Scarifier_Yes : 3967.89938439
-Stick_Length_10' 6" : 3997.66134314
-Tip_Control_Tip : 4010.42355831
-fiSecondaryDesc_XLT : 4018.7230368
-Ride_Control_No : 4126.43497668
-Steering_Controls_Conventional : 4231.32730136
-fiSecondaryDesc_LT : 4307.21093112
-Stick_Length_8' 10" : 4308.41400681
-fiModelSeries_12 : 4316.58155034
-YearMade_1962 : 4545.694692
-fiSecondaryDesc_MU : 4555.44044936
-fiModelSeries_-5LC : 4555.59378307
-fiSecondaryDesc_CR : 4581.55539898
-YearMade_2006 : 4583.37344091
-fiSecondaryDesc_5 : 4753.52281845
-fiSecondaryDesc_NL : 4779.58083653
-fiSecondaryDesc_EL : 4788.40817449
-fiSecondaryDesc_SG : 4877.38130256
-Tire_Size_29.5 : 4935.95223181
-YearMade_1961 : 4965.4485892
-Ride_Control_Yes : 5085.92622968
-YearMade_1957 : 5127.08244834
-Stick_Length_9' 7" : 5216.87421057
-fiSecondaryDesc_IV : 5262.50589348
-fiSecondaryDesc_US : 5441.87353385
-fiModelSeries_E : 5558.90799784
-YearMade_1960 : 5614.62468281
-fiSecondaryDesc_EX : 5654.69172448
-fiSecondaryDesc_URG : 5715.42014109
-Ripper_Multi Shank : 5716.80341609
-fiModelSeries_-5H : 5788.30458361
-fiSecondaryDesc_UU : 5811.25544166
-fiSecondaryDesc_C : 5865.99753498
-fiSecondaryDesc_D : 5889.68388026
-state_South Dakota : 5939.88041038
-fiSecondaryDesc_SUPER : 6040.54277557
-fiModelSeries_6 : 6123.06143333
-Pushblock_Yes : 6171.83359111
-YearMade_1963 : 6223.23882935
-fiSecondaryDesc_SXT : 6290.81758108
-fiModelSeries_-7B : 6354.26225896
-fiSecondaryDesc_SUPER M : 6427.94323001
-fiSecondaryDesc_PX : 6475.81546656
-fiSecondaryDesc_F : 6717.18260055
-Tire_Size_17.5" : 6750.30954982
-Blade_Type_Semi U : 6902.50059306
-fiModelSeries_-7K : 6967.9224236
-fiSecondaryDesc_SUPER L : 7032.15474689
-Tire_Size_26.5 : 7101.50331404
-Enclosure_EROPS w AC : 7169.84447488
-Stick_Length_10' 10" : 7198.72115469
-fiSecondaryDesc_SE : 7323.72403789
-fiSecondaryDesc_K : 7355.67687207
-Stick_Length_12' 8" : 7512.91372018
-fiSecondaryDesc_SUPER K : 7577.73883276
-fiSecondaryDesc_LC7LR : 7805.43031576
-Stick_Length_14' 1" : 7870.51687397
-Stick_Length_15' 9" : 7979.38343812
-fiSecondaryDesc_USR : 8067.99208981
-Pattern_Changer_Yes : 8155.90345672
-fiSecondaryDesc_STD : 8336.45721225
-YearMade_2007 : 8338.37143702
-fiModelSeries_-3PT : 8425.4040714
-Ripper_Yes : 8481.79262279
-fiSecondaryDesc_PT : 8588.53314283
-fiSecondaryDesc_CS : 8634.78487437
-fiSecondaryDesc_SUPER LE : 8701.50164966
-fiSecondaryDesc_G : 8799.89017012
-Tire_Size_23.5" : 8822.15244507
-fiModelSeries_5 : 8890.06740745
-fiSecondaryDesc_HD : 8903.48566025
-fiSecondaryDesc_SUPER E : 9315.88965802
-fiSecondaryDesc_NC : 9407.23668415
-fiModelSeries_-6B : 9703.61639368
-fiSecondaryDesc_L : 9871.62299227
-fiModelSeries_-16 : 9965.96623506
-fiModelSeries_V : 9984.1134874
-fiSecondaryDesc_AW : 10258.12695
-fiModelSeries_-5L : 10463.5578276
-ProductSize_Medium : 10785.2324514
-YearMade_2008 : 10882.646214
-fiSecondaryDesc_CX : 11198.0497727
-YearMade_2009 : 11283.6101382
-Stick_Length_12' 10" : 11297.5239808
-fiSecondaryDesc_WX : 11495.1257231
-YearMade_1958 : 11663.3683512
-fiModelSeries_-15 : 11734.97172
-fiSecondaryDesc_M : 11876.2573601
-Engine_Horsepower_Variable : 13062.7689144
-fiModelSeries_8 : 13115.8094218
-Stick_Length_19' 8" : 13118.248023
-YearMade_1956 : 13142.2418021
-fiModelSeries_-1.50E+01 : 13259.2201826
-Enclosure_Type_Low Profile : 13262.9693976
-fiSecondaryDesc_ESS : 13274.6269531
-fiSecondaryDesc_H : 13645.194948
-Stick_Length_13' 9" : 13816.7039371
-fiModelSeries_-2E : 13828.1648006
-ProductSize_Large / Medium : 13899.9658759
-fiSecondaryDesc_J : 14071.6055173
-fiModelSeries_D : 15631.650977
-ProductGroup_MG : 15712.1058205
-ProductSize_Large : 15731.2525199
-fiSecondaryDesc_BL : 15776.7537849
-Enclosure_Type_High Profile : 15785.4677058
-Stick_Length_13' 10" : 16253.7549899
-Differential_Type_Locking : 17065.7885279
-fiModelSeries_6.00E+00 : 17383.3923573
-YearMade_2011 : 17486.6459702
-fiModelSeries_A : 18266.1936381
-Steering_Controls_Command Control : 18733.4716208
-YearMade_1948 : 18935.0005794
-fiSecondaryDesc_AX : 18937.3398806
-fiSecondaryDesc_HZ : 19216.6073492
-YearMade_2010 : 19613.7251888
-Tire_Size_20.5" : 19832.0929114
-fiSecondaryDesc_LR : 19885.7716271
-fiModelSeries_V-2 : 20303.7149369
-fiSecondaryDesc_USRK : 21220.5126601
-fiModelSeries_-3LK : 21850.8565253
-fiSecondaryDesc_CH : 22205.9963253
-fiModelSeries_-6C : 22544.5057017
-fiSecondaryDesc_DL : 22850.1559541
-fiModelSeries_15 : 23176.0008633
-fiModelSeries_3C : 23647.8740045
-YearMade_1954 : 25919.0619537
-fiModelSeries_7 : 26356.8493075
-fiModelSeries_22 : 26570.8694362
-fiSecondaryDesc_-6 : 27083.3547174
-fiModelSeries_6LK : 27464.0095874
-YearMade_1952 : 28801.4706355
-fiSecondaryDesc_#NAME? : 28845.130259
-YearMade_1953 : 29370.8426383
-fiModelSeries_7A : 30825.2398095
-fiSecondaryDesc_N : 32174.7564247
-YearMade_1950 : 33325.2223533
-fiSecondaryDesc_R : 34370.9162605
-fiSecondaryDesc_SRDZ : 34787.1933405
-YearMade_1951 : 38264.9047428
-fiModelSeries_7.00E+00 : 38299.6033097
-fiModelSeries_H : 39553.8248818
-YearMade_1949 : 50242.3133817
-fiModelSeries_VHP : 53507.817723
-YearMade_1937 : 58999.8003909
-YearMade_1919 : 59595.2093688
-YearMade_1920 : 106644.429477
+YearMade_1994 : 32.1079380219
+state_Michigan : 48.0713407928
+YearMade_1990 : 49.0566507876
+state_Idaho : 52.2219216156
+fiModelSeries_LC : 64.899925185
+YearMade_1982 : 87.1905950424
+auctioneerID_1.0 : 101.038107655
+auctioneerID_25.0 : 128.137723809
+state_Maine : 159.852259754
+Blade_Type_Angle : 270.827134674
+YearMade_1987 : 320.835575037
+state_Minnesota : 332.234675145
+YearMade_1997 : 367.139904833
+auctioneerID_22.0 : 374.412618568
+Pattern_Changer_No : 374.555532448
+state_Illinois : 406.077003942
+state_Wyoming : 516.973264133
+Coupler_Manual : 545.837565274
+YearMade_1999 : 568.709717106
+state_Ohio : 577.159662139
+Transmission_Powershift : 582.12245368
+Hydraulics_2 Valve : 605.369381127
+state_Texas : 757.828835709
+Track_Type_Steel : 786.011136879
+state_Mississippi : 787.289523033
+Forks_Yes : 795.1448722
+fiModelSeries_III : 797.252693762
+Pad_Type_Street : 799.615721528
+ProductGroup_TTT : 807.767813341
+Transmission_Powershuttle : 861.606949647
+YearMade_1998 : 918.573811896
+auctioneerID_17.0 : 927.636143491
+YearMade_1989 : 975.697527043
+YearMade_1988 : 1019.88666554
+state_Louisiana : 1037.18809845
+fiModelSeries_-3PT : 1043.9674249
+state_Connecticut : 1090.38214765
+Tire_Size_14" : 1131.28894195
+auctioneerID_8.0 : 1193.3323262
+Coupler_Hydraulic : 1259.82761419
+state_New Hampshire : 1280.56258876
+Differential_Type_Limited Slip : 1311.26642887
+state_South Carolina : 1343.8416861
+auctioneerID_7.0 : 1384.64074115
+fiModelSeries_-7E : 1449.84007458
+Thumb_Hydraulic : 1452.00400174
+Grouser_Type_Triple : 1521.31945497
+fiModelSeries_-5LC : 1522.04152092
+auctioneerID_11.0 : 1560.89443968
+state_Rhode Island : 1584.50803759
+state_Massachusetts : 1634.96100125
+fiModelSeries_8 : 1661.05594827
+Hydraulics_4 Valve : 1664.94144618
+YearMade_2003 : 1691.13211616
+YearMade_2004 : 1706.73647669
+state_North Dakota : 1717.11133549
+Transmission_Standard : 1778.60460002
+state_New Jersey : 1856.19258844
+Stick_Length_10' 2" : 1934.90498285
+state_West Virginia : 2035.59328948
+Blade_Type_Straight : 2074.73017259
+YearMade_2002 : 2083.08792471
+Differential_Type_No Spin : 2122.23471275
+YearMade_2001 : 2320.75603814
+Stick_Length_9' 8" : 2396.83192616
+state_Florida : 2499.01022172
+Pad_Type_Reversible : 2520.74401914
+fiModelSeries_LT : 2533.34320437
+auctioneerID_19.0 : 2552.68526823
+auctioneerID_6.0 : 2647.09772442
+Hydraulics_3 Valve : 2822.83313554
+Tire_Size_23.5 : 3087.74525256
+fiModelSeries_5 : 3208.23431529
+state_Unspecified : 3315.4863624
+fiModelSeries_E : 3363.60314961
+Blade_Type_No : 3410.39809158
+Steering_Controls_Conventional : 3481.13496731
+Stick_Length_8' 10" : 3485.98454469
+Stick_Length_11' 0" : 3487.26985259
+Stick_Length_11' 10" : 3495.68386313
+YearMade_2005 : 3506.42085098
+Tire_Size_15.5 : 3734.67472116
+Blade_Type_VPAT : 3798.57856717
+Blade_Type_Coal : 3904.93990844
+YearMade_1961 : 3983.95240594
+Scarifier_Yes : 4086.1584514
+fiModelSeries_-5L : 4110.69604237
+Stick_Length_12' 4" : 4162.97474646
+fiModelSeries_II : 4177.46345454
+Stick_Length_10' 6" : 4242.07006729
+state_South Dakota : 4340.76819497
+Blade_Type_U : 4398.65604783
+fiModelSeries_A : 4491.3609093
+Enclosure_EROPS AC : 4611.04336004
+Blade_Type_Landfill : 4878.54744386
+fiModelSeries_G : 4880.10474792
+YearMade_1963 : 5232.15444119
+YearMade_1960 : 5381.48485007
+Ride_Control_No : 5457.06870255
+Tire_Size_29.5 : 5493.06298265
+Tip_Control_Tip : 5507.11529392
+Travel_Controls_Finger Tip : 5518.40936606
+Stick_Length_15' 9" : 5535.20495901
+fiModelSeries_-15 : 5766.33855581
+Ripper_Single Shank : 6117.52364132
+fiModelSeries_-7B : 6244.40235117
+YearMade_1956 : 6333.52923422
+Ripper_Multi Shank : 6483.17859191
+fiModelSeries_-6B : 6548.10344249
+Ride_Control_Yes : 6628.5130695
+YearMade_2006 : 6752.7639372
+Tire_Size_17.5" : 6875.11832284
+Stick_Length_9' 7" : 7035.39060878
+Drive_System_No : 7197.14037731
+Tire_Size_26.5 : 7241.52408763
+fiModelSeries_6.00E+00 : 7519.62894245
+Drive_System_All Wheel Drive : 7521.27594973
+Stick_Length_13' 7" : 7858.45314643
+Enclosure_EROPS w AC : 8019.53598603
+Stick_Length_10' 10" : 8375.72171563
+Pushblock_Yes : 8401.79795929
+Pattern_Changer_Yes : 8497.22307692
+Stick_Length_12' 8" : 8574.20304568
+Stick_Length_14' 1" : 8864.05366144
+fiModelSeries_V-2 : 8950.70302233
+ProductGroup_MG : 9386.7545735
+Ripper_Yes : 9570.31174352
+YearMade_1959 : 9843.11759298
+YearMade_2007 : 9957.82813028
+YearMade_2009 : 10219.8983315
+YearMade_1948 : 10679.9491096
+Stick_Length_12' 10" : 11793.97096
+ProductSize_Medium : 12089.591609
+Tire_Size_23.5" : 12216.9051117
+Blade_Type_Semi U : 12236.6930846
+YearMade_2008 : 12332.1129948
+fiModelSeries_D : 12772.4891015
+YearMade_1958 : 12887.0790185
+ProductSize_Large / Medium : 13220.3322696
+Stick_Length_19' 8" : 13256.985728
+Travel_Controls_Differential Steer : 13272.8270676
+Differential_Type_Locking : 14154.7981036
+fiModelSeries_15 : 15360.6586839
+fiModelSeries_-6C : 16031.017959
+fiModelSeries_-2E : 16047.1407283
+Engine_Horsepower_Variable : 16196.3834179
+fiModelSeries_-3LK : 16694.6044847
+Enclosure_Type_Low Profile : 17034.6139369
+fiModelSeries_7 : 17434.5591366
+ProductSize_Large : 18060.5126112
+fiModelSeries_3C : 18676.6115651
+Tire_Size_20.5" : 19779.6285461
+fiModelSeries_7A : 19782.5311132
+Enclosure_Type_High Profile : 19855.6239398
+YearMade_1954 : 19941.6010871
+fiModelSeries_22 : 21265.5770134
+Steering_Controls_Command Control : 21808.6244105
+YearMade_2010 : 23252.7559772
+YearMade_2011 : 23864.1644311
+YearMade_1952 : 25337.0949143
+fiModelSeries_VHP : 27565.6567771
+fiModelSeries_H : 29082.8026249
+fiModelSeries_7.00E+00 : 30111.1287709
+YearMade_1950 : 31816.7810717
+YearMade_1951 : 37252.1013774
+YearMade_1949 : 41718.7888214
+YearMade_1919 : 56953.0199925
+YearMade_1920 : 109559.79947
