@@ -51,6 +51,14 @@ class Tractors(Predictor):
             for column in data.columns:
                 if column not in self.test.columns:
                     self.test.loc[:, column] = 0
+        if len(data.index.values) == len(self.data_to_predict.index.values):
+            if (data.index == self.data_to_predict.index).all():
+                for column in data.columns:
+                    if column not in self.data.columns:
+                        data.drop(column, axis=1, inplace=True)
+                for column in self.data.columns:
+                    if column not in data.columns:
+                        data.loc[:, column] = 0
         return data
 
 
@@ -88,13 +96,13 @@ if __name__ == '__main__':
     # grid search model hyperparameter
     print 'tuning hyperparameters'
     model_name = 'RandomForestRegressor'
-    param_grid = {'n_estimators': [10],
-                  'max_features': ['auto', 0.6, 0.2],
+    param_grid = {'n_estimators': [50],
+                  'max_features': [0.5, 0.6, 0.7],
                   'max_depth': [None],
                   'min_samples_leaf': [2],
                   'bootstrap': [True],
                   'n_jobs': [-1],
-                  'verbose': [0]}
+                  'verbose': [1]}
     tractors.grid_search(model_name, param_grid)
     print 'best train RMSE: {}'.format(np.sqrt(abs(tractors.train_score_)))
 
@@ -104,7 +112,7 @@ if __name__ == '__main__':
     print 'test RMSE: {}'.format(tractors.test_score_)
 
     # increase the number of estimators for the final fit
-    tractors.best_params_['n_estimators'] = 100
+    tractors.best_params_['n_estimators'] = 1000
 
     # fit the best model on the whole dataset
     print 'fitting final model'
@@ -119,7 +127,4 @@ if __name__ == '__main__':
     print 'making predictions'
     tractors.predict()
     tractors.data_to_predict['Predicted_SalePrice'] = tractors.predictions
-    print tractors.predictions
-    tractors.data.shape
-    tractors.train.head()
-    tractors.data_to_predict[].head()
+    tractors.data_to_predict.to_csv('results.csv', index=False)
