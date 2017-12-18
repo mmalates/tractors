@@ -2,8 +2,7 @@ from ds_utils import Predictor
 import pandas as pd
 import numpy as np
 
-"""TODO:
-    -fix data_to_predict processing
+"""Predicts tractor sale price at auction
 """
 
 
